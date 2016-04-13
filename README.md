@@ -1,4 +1,4 @@
-### Joshua Andeson's Public Keys
+### Joshua Anderson's Public Keys
 
 This is where I store my public pgp and ssh keys.
 
